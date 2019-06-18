@@ -1,0 +1,16 @@
+Code book for tidy project
+Subject : (1-30)
+	Represent 30 volunteers within an age bracket of 19-48 years, who performed activities in this experiment
+
+Activities 
+: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+	Activity that volunteers perform while wearing a smartphone (Samsung Galaxy S II) on the waist
+
+Variables : 
+Time : These time domain signals were captured at a constant rate of 50 Hz
+frequency : Fast Fourier Transform (FFT) was applied to some of these signals producing
+acc : features data from accelerometer
+gyr : features data from 3-axial gyroscope
+mean : mean
+std : standard deviation
+jerk : the body linear acceleration and angular velocity were derived in time to obtain Jerk signals
